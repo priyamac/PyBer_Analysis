@@ -11,9 +11,9 @@ Using two files on ride-sharing data by city type, a summary data frame will be 
 
 ## Results 
 
-### Summary Data Frame
+### Data Frame
 
-The summary data frame shows number of drivers, rider and fare information broken out by city type. 
+The summary data frame shows the number of drivers, rider and fare information broken out by city type. 
 
 <br />
 <p align="center">
@@ -39,8 +39,14 @@ PyBer Line Chart
 
 Though there is a large disparity in total fares by each city type, they all remain relatively consistent. 
 
-Rural cities have the lowest total fares, and remained between $0 and $500. Urban cities had the highest total fares, but they saw a gradual increase in total fares between Jan and end of Feb, before seeing a dip. All three city types saw a slight decline at the end of February. 
+Rural cities have the lowest total fares, and remained between $0 and $500. Urban cities had the highest total fares, but they saw a gradual increase in total fares between Jan and end of Feb, before seeing slight fluctuations through to April. All three city types saw a slight decline at the end of February. 
 
 ---
 
 ## Summary
+
+Using the data collected above, three recommendations can be made for addressing any disparities among the city types. 
+
+One disparity is the proportion of drivers to rides. In rural city types, there are 0.624 drivers for every ride, meaning each driver can provide 1.6 rides. In comparison, urban cities have 1.48 drivers for every ride, meaning each driver can provide 0.68 rides. 
+
+The supply of drivers outweighs demand in urban cities, causing competition, and could be the cause of the lower average fares. One recommendation is to move urban drivers to rural areas, if there is a demand for it. As rural areas tend to have a smaller population than cities, it would also be recommended to examine further data to determine the correct number of drivers needed which won’t lead to unproductive labour. However, as the average fare for rides is higher in rural cities, another recommendation could be to reduce fairs in those areas to encourage this demand. 
