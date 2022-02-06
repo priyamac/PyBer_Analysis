@@ -17,7 +17,7 @@ The summary data frame shows the number of drivers, rider and fare information b
 
 <br />
 <p align="center">
-<img src="Resources/pyber_summary_df.png" width="1000">
+<img src="analysis/pyber_summary_df.png" width="1000">
 PyBer Summary Data Frame
 </p>
 <br />
@@ -32,7 +32,7 @@ In addition to creating a data frame, a line chart can be made to visualise fare
 
 <br />
 <p align="center">
-<img src="Resources/pyber_line_chart.png" width="1000">
+<img src="analysis/pyber_line_chart.png" width="1000">
 PyBer Line Chart
 </p>
 <br />
