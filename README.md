@@ -17,7 +17,7 @@ The summary data frame shows the number of drivers, rider and fare information b
 
 <br />
 <p align="center">
-<img src="analysis/pyber_summary_df.png" width="1000">
+<img src="Analysis/pyber_summary_df.png" width="1000">
 PyBer Summary Data Frame
 </p>
 <br />
@@ -32,7 +32,7 @@ In addition to creating a data frame, a line chart can be made to visualise fare
 
 <br />
 <p align="center">
-<img src="analysis/pyber_line_chart.png" width="1000">
+<img src="Analysis/pyber_line_chart.png" width="1000">
 PyBer Line Chart
 </p>
 <br />
@@ -47,6 +47,6 @@ Rural cities have the lowest total fares, and remained between $0 and $500. Urba
 
 Using the data collected above, three recommendations can be made for addressing any disparities among the city types. 
 
-One disparity is the proportion of drivers to rides. In rural city types, there are 0.624 drivers for every ride, meaning each driver can provide 1.6 rides. In comparison, urban cities have 1.48 drivers for every ride, meaning each driver can provide 0.68 rides. 
+One disparity is the proportion of drivers to rides. In rural city types, there are 0.624 drivers for every ride, meaning each driver can provide 1.6 rides, and 0.784 drivers for every ride for suburban city types. In comparison, urban cities have 1.48 drivers for every ride, meaning each driver can provide 0.68 rides. 
 
-The supply of drivers outweighs demand in urban cities, causing competition, and could be the cause of the lower average fares. One recommendation is to move urban drivers to rural areas, if there is a demand for it. As rural areas tend to have a smaller population than cities, it would also be recommended to examine further data to determine the correct number of drivers needed which won’t lead to unproductive labour. However, as the average fare for rides is higher in rural cities, another recommendation could be to reduce fairs in those areas to encourage this demand. 
+The supply of drivers outweighs demand in urban cities, causing competition, and could be the cause of the lower average fares. One recommendation is to move urban drivers to suburban or rural areas, if there is a demand for it. As rural/suburban areas tend to have a smaller population than urban cities, it would also be recommended to examine further data to determine the correct number of drivers needed which won’t lead to unproductive labour. However, as the average fare for rides is higher in rural and suburban cities, another recommendation could be to reduce fairs in those areas to encourage this demand. 
